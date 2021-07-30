@@ -1,6 +1,6 @@
 # Hallo There 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=FLAMEZOMBIE&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=FLAMEZOMBIE&show_icons=true&theme=radical)
 
 # About Me :tada:
 
