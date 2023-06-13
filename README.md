@@ -4,9 +4,6 @@
 
 # About Me :tada:
 
-Hallo, My Name Valentino Ahmad Ulza Paramarta ( FLAMEZOMBIE) i want to be a professional programmers
-
-[![Facebook](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-24.png)](https://www.instagram.com/u.paramarta_yt/)
 [![WhatsApp](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/whatsapp-24.png)](https://wa.me/628157642183)
 [![LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-24.png)](https://www.linkedin.com/in/ulza-paramarta-22a7691b2/)
 
